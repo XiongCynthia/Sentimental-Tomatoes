@@ -6,7 +6,7 @@
 
 ## Overview
 
-We have performed feature engineering and logistic regression/naive bayes ML models to predict sentiments of movie reviews.
+We have performed feature engineering and logistic regression/naïve bayes ML models to predict sentiments of movie reviews.
 
 The dataset is comprised of tab-separated files with sentences and phrases from the Rotten Tomatoes dataset. Phrases and sentences have been parsed by the Stanford parser, and each phrase and sentence have their own IDs. Multiple phrases can belong to the same sentence. Phrases that are repeated (which are typically short or common single words) are only included once in the each of the datasets.
 
@@ -37,7 +37,7 @@ Source: [https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews
     - Phrase/sentence lengths
     - Counts of '!', '?', and '.'
       
-3. Train naive Bayes and logistic regression models
+3. Train naïve Bayes and logistic regression models
       
 4. Evaluate models
     - Compare mean accuracy scores
