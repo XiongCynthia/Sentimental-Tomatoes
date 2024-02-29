@@ -25,7 +25,7 @@ Source: [https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews
 
 ## Summary of the Process
 
-1. Exploratory data analysis
+1. Exploratory data analysis (EDA)
     - Compare the assigned sentiment scores of sentences vs. phrases
     - Create word clouds of all sentences
     
